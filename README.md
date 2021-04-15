@@ -1,2 +1,7 @@
 # FCW-Forward_Collision_Warning-System
-one of the functions of an ADAS project
+One of the functional parts of an ADAS project.
+
+It is based on yolov3 object detection and bird view images to estimate the distance.
+ver1.0 original frame.
+ver1.1 for laboratory-level test.
+ver1.2 for outdoor reality test.
