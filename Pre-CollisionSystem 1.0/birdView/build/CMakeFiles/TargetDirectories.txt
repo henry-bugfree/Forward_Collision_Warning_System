@@ -1,0 +1,3 @@
+/home/henryliang/Pre-CollisionSystem/birdView/build/CMakeFiles/rebuild_cache.dir
+/home/henryliang/Pre-CollisionSystem/birdView/build/CMakeFiles/edit_cache.dir
+/home/henryliang/Pre-CollisionSystem/birdView/build/CMakeFiles/dist.dir

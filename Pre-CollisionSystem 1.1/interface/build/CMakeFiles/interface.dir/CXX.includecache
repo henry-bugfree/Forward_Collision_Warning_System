@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/henryliang/Pre-CollisionSystem/interface/interface.cpp
+iostream
+-
+fstream
+-
+stdio.h
+-
+string
+-
+math.h
+-
+vector
+-
+

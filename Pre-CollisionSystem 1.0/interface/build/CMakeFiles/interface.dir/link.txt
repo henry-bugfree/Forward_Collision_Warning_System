@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/interface.dir/interface.cpp.o  -o interface 

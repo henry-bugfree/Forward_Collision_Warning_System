@@ -1,0 +1,3 @@
+/home/henryliang/Pre-CollisionSystem/trace/build/CMakeFiles/rebuild_cache.dir
+/home/henryliang/Pre-CollisionSystem/trace/build/CMakeFiles/edit_cache.dir
+/home/henryliang/Pre-CollisionSystem/trace/build/CMakeFiles/trace.dir
