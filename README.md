@@ -6,3 +6,4 @@ ver1.0 original frame.
 ver1.1 for laboratory-level test.  
 ver1.2 for outdoor reality test.  
   
+<-IT IS UNDONE AND ABORTED->
